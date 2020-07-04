@@ -1,0 +1,176 @@
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 71, in ajax_like
+    video = Video.objects.get(id=id + "10")
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\query.py", line 406, in get
+    raise self.model.DoesNotExist(
+showvideo.models.Video.DoesNotExist: Video matching query does not exist.
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15668
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 71, in ajax_like
+    video = Video.objects.get(id=id + "10")
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\query.py", line 406, in get
+    raise self.model.DoesNotExist(
+showvideo.models.Video.DoesNotExist: Video matching query does not exist.
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15668
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 71, in ajax_like
+    video = Video.objects.get(id=id + "10")
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\query.py", line 406, in get
+    raise self.model.DoesNotExist(
+showvideo.models.Video.DoesNotExist: Video matching query does not exist.
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15668
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 71, in ajax_like
+    video = Video.objects.get(id=id + "10")
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\query.py", line 406, in get
+    raise self.model.DoesNotExist(
+showvideo.models.Video.DoesNotExist: Video matching query does not exist.
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15668
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 71, in ajax_like
+    video = Video.objects.get(id=id + "10")
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\db\models\query.py", line 406, in get
+    raise self.model.DoesNotExist(
+showvideo.models.Video.DoesNotExist: Video matching query does not exist.
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15668
+KeyError in ajax_like
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 75, in ajax_like
+    video.likes += 1
+UnboundLocalError: local variable 'video' referenced before assignment
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15349
+KeyError in ajax_like
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 75, in ajax_like
+    video.likes += 1
+UnboundLocalError: local variable 'video' referenced before assignment
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15349
+KeyError in ajax_like
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 75, in ajax_like
+    video.likes += 1
+UnboundLocalError: local variable 'video' referenced before assignment
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15349
+KeyError in ajax_like
+KeyError in ajax_like
+KeyError in ajax_like
+Watching for file changes with StatReloader
+KeyError in ajax_like
+Internal Server Error: /hello/ajax/add_like/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 75, in ajax_like
+    video.likes += 1
+UnboundLocalError: local variable 'video' referenced before assignment
+"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15343
+Watching for file changes with StatReloader
+"GET /hello/456/ HTTP/1.1" 200 1453
+"GET /hello/456/ HTTP/1.1" 200 1453
+"GET /static/script.js HTTP/1.1" 200 1297
+"GET /static/123.jpg HTTP/1.1" 200 82138
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2402
+C:\Users\Student\bestvideostore-1\videostore\settings.py changed, reloading.
+2020/07/04 12:$M:$S INFO [django.utils.autoreload:6108:Watching for file changes with StatReloader]
+2020/07/04 12:$M:$S CRITICAL [django:6108:KeyError in ajax_like]
+2020/07/04 12:$M:$S ERROR [django.request:6108:Internal Server Error: /hello/ajax/add_like/]
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 75, in ajax_like
+    video.likes += 1
+UnboundLocalError: local variable 'video' referenced before assignment
+2020/07/04 12:$M:$S ERROR [django.server:6108:"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15506]
+2020/07/04 12:$M:$S INFO [django.server:6108:"GET /hello/456/ HTTP/1.1" 200 1453]
+2020/07/04 12:$M:$S INFO [django.utils.autoreload:6108:C:\Users\Student\bestvideostore-1\videostore\settings.py changed, reloading.]
+2020/07/04 12:50:27 INFO [django.utils.autoreload:1876:Watching for file changes with StatReloader]
+2020/07/04 12:50:30 INFO [django.server:1876:"GET /hello/456/ HTTP/1.1" 200 1453]
+2020/07/04 12:51:36 INFO [django.server:1876:"GET /hello/456/ HTTP/1.1" 200 1453]
+2020/07/04 12:51:43 CRITICAL [django:1876:KeyError in ajax_like]
+2020/07/04 12:51:43 ERROR [django.request:1876:Internal Server Error: /hello/ajax/add_like/]
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Student\bestvideostore-1\showvideo\views.py", line 75, in ajax_like
+    video.likes += 1
+UnboundLocalError: local variable 'video' referenced before assignment
+2020/07/04 12:51:43 ERROR [django.server:1876:"GET /hello/ajax/add_like/?id=1 HTTP/1.1" 500 15506]
